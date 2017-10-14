@@ -1,0 +1,1 @@
+La commande pour créer ce fichier est : touch fichier1.txt
